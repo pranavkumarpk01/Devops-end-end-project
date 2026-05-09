@@ -11,7 +11,7 @@ public class App {
 
     @GetMapping("/")
     public String home() {
-        return "DevOps CI/CD Pipeline Running Successfully";
+        return "Microdegree is the best platform to learn";
     }
 
     public static void main(String[] args) {
