@@ -11,7 +11,7 @@ public class App {
 
     @GetMapping("/")
     public String home() {
-        return "Microdegree is the best platform to learn";
+        return "Microdegree is the best platform to learn Devops and Gen AI";
     }
 
     public static void main(String[] args) {
